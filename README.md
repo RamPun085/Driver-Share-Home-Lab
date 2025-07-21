@@ -115,6 +115,7 @@ if %errorlevel% equ 0 (
 )
 
 Pause
+'''
 How to Customize
 Replace Lexmark Universal v2 with the exact printer model name as shown inside your INF file's [Manufacturer] section or as Windows expects it.
 
